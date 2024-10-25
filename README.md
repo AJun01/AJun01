@@ -48,8 +48,6 @@
 
 ## Connect with Me:
 
-## Connect with Me:
-
 <p align="center">
   <a href="https://docs.google.com/document/d/1N1jUcrAv7VVRQC3pCZJCyiZIdYGmIFn3kmNYF28QPcY/edit?tab=t.0" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
