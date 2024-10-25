@@ -48,11 +48,21 @@
 
 ## Connect with Me:
 
+## Connect with Me:
+
 <p align="center">
-  <a href="https://docs.google.com/document/d/1N1jUcrAv7VVRQC3pCZJCyiZIdYGmIFn3kmNYF28QPcY/edit?tab=t.0" target="_blank">📄 Resume</a> | 
-  <a href="https://ajun01.github.io/React-Portfolio/" target="_blank">🌐 Portfolio</a> | 
-  <a href="https://www.linkedin.com/in/yujun-liu-challenger/" target="_blank">💼 LinkedIn</a> | 
-  <a href="https://flexivian.github.io/flexbench/docs/GSoC/2024/" target="_blank">🚀 GSOC 2024</a>
+  <a href="https://docs.google.com/document/d/1N1jUcrAv7VVRQC3pCZJCyiZIdYGmIFn3kmNYF28QPcY/edit?tab=t.0" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+  <a href="https://ajun01.github.io/React-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yujun-liu-challenger/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://flexivian.github.io/flexbench/docs/GSoC/2024/" target="_blank">
+    <img src="https://img.shields.io/badge/GSOC%202024-Learn%20More-orange?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
 </p>
 
 <div>
