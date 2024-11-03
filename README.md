@@ -46,6 +46,27 @@
 - **January 2023**: Completed Operation Trainee Program at Teamwave PC, DE.
 - **May 2022**: Graduated with a B.S. in Information Sciences & Technology from Pennsylvania State University.
 
+## Toy Projects:
+## 📂 Projects
+
+1. **[ticketmeister](https://github.com/ajun01/ticketmeister)**  
+   Mock app for ticket selling solution using React.
+
+2. **[weather-app](https://github.com/ajun01/weather-app)**  
+   Mock weather app that fetches data from OpenWeatherMap API.
+
+3. **[Registar](https://github.com/ajun01/Registar)**  
+   Mock registration process app for yoga instructors.
+
+4. **[trade-king](https://github.com/ajun01/trade-king)**  
+   Mock stock trading app.
+
+5. **[AIBoardGame](https://github.com/ajun01/AIBoardGame)**  
+    An AI-powered board game project.
+
+6. **[develop-flexbench](https://github.com/ajun01/develop-flexbench)**  
+    A nodejs http traffic simulator.
+
 ## Connect with Me:
 
 <p align="center">
